@@ -160,3 +160,46 @@ class: middle, center
 ---
 
 ## Architecture
+
+---
+class: middle, center
+
+# Languages
+
+---
+
+## Machine Instruction
+
+???
+
+* Directly ties into the design of the chip
+
+---
+
+## Assembly
+
+???
+
+* An aid to write machine instructions
+
+---
+
+## Compiled
+
+???
+
+* Higher level language
+* Translated to Machine Instructions
+
+---
+
+## Interpreted
+
+???
+
+* Program is interpret
+* Then executed
+
+---
+
+## Family Tree
