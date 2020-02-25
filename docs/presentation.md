@@ -139,4 +139,3 @@ class: middle, center
 ???
 
 * Programmed the analytic engine
-
