@@ -139,3 +139,24 @@ class: middle, center
 ???
 
 * Programmed the analytic engine
+
+---
+class: middle, center
+
+# Formalization
+
+---
+
+## David Hilbert
+
+---
+
+## Alan Turing
+
+---
+
+## Von Neumann
+
+---
+
+## Architecture
