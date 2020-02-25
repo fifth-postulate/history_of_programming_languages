@@ -13,3 +13,9 @@ class: middle, center
 * History is written by the victors: apocryphally attributed to Winston Churchill
 * Somebody has been writing
 * And that reflect at least there views
+
+---
+
+## Programming Language
+
+> a [...] language, which comprises a set of instructions that produce various kinds of output.
