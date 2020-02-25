@@ -91,3 +91,52 @@ a. if someone is sick, dig up these roots, boil them and feed them to the sick
 b. when there is a drougth, dig here, and water will emerge
 c. to attach these pieces of garment, use this stich
 d. to bake a cake, mix flower, milk, eggs and sugar
+
+---
+class: middle, center
+
+# Aid to computing
+
+---
+
+## Stones
+
+???
+
+* Stones can be brought in to correspondence with other things
+* How many axes to make, one for each stone that a clan member gave me
+* How many sacs to make, one for each stone that a clan member gave me 
+
+---
+
+## Abacus
+
+???
+
+* From stone to abacus is a small, but long step.
+
+---
+
+## Antikythera mechanism
+
+???
+
+* used in astronomical calculations
+
+---
+
+## Analytic Engine
+
+???
+
+* Designed by Charles Babbage
+* Inspired by the Jacquard Loom
+
+---
+
+## Ada Lovelace
+
+???
+
+* Programmed the analytic engine
+
