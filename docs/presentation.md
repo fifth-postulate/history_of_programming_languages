@@ -34,6 +34,7 @@ class: middle, center
 
 ---
 class: middle, center
+background-image: url(image/twain.jpeg)
 
 > Never let the truth stand in the way of a good story.
 
@@ -44,19 +45,20 @@ class: middle, center
 * And I love to be challenged
 
 ---
+background-image: url(image/computer_code.jpg)
+
+???
 
 ## Programming Language
 
-???
-
 * If you want to study programming languages...
 
-
 ---
-
-## Computers
+background-image: url(image/computer.jpg)
 
 ???
+
+## Computers
 
 * You beter study computers
 * Because for a long time they were intimidly related
@@ -64,13 +66,14 @@ class: middle, center
 ---
 class: middle, center
 
-## the first computer?
+## The first computer?
 
 ---
-
-## ENIAC
+background-image: url(image/eniac1.jpg)
 
 ???
+
+## ENIAC
 
 * ENIAC
 * Electronic Numerical Integrator and Computer
@@ -78,10 +81,11 @@ class: middle, center
 * But not the first
 
 ---
-
-## Vitruvian Man
+background-image: url(image/vitruvian.jpg)
 
 ???
+
+## Vitruvian Man
 
 * People where the first computers
 * And for a long time the only general purpose computers
@@ -98,45 +102,50 @@ class: middle, center
 # Aid to computing
 
 ---
-
-## Stones
+background-image: url(image/stones.jpg)
 
 ???
+
+## Stones
 
 * Stones can be brought in to correspondence with other things
 * How many axes to make, one for each stone that a clan member gave me
 * How many sacs to make, one for each stone that a clan member gave me 
 
 ---
-
-## Abacus
+background-image: url(image/abacus.jpg)
 
 ???
+
+## Abacus
 
 * From stone to abacus is a small, but long step.
 
 ---
-
-## Antikythera mechanism
+background-image: url(image/antikythera-mechanism.jpg)
 
 ???
+
+## Antikythera mechanism
 
 * used in astronomical calculations
 
 ---
-
-## Analytic Engine
+background-image: url(image/analytic-engine.jpg)
 
 ???
+
+## Analytic Engine
 
 * Designed by Charles Babbage
 * Inspired by the Jacquard Loom
 
 ---
-
-## Ada Lovelace
+background-image: url(image/lovelace.jpg)
 
 ???
+
+## Ada Lovelace
 
 * Programmed the analytic engine
 
@@ -146,18 +155,31 @@ class: middle, center
 # Formalization
 
 ---
+background-image: url(image/hilbert.jpg)
+
+???
 
 ## David Hilbert
 
 ---
+background-image: url(image/turing.jpg)
+
+???
 
 ## Alan Turing
 
 ---
+background-image: url(image/neumann.jpg)
+
+???
 
 ## Von Neumann
 
 ---
+
+<img width="100%" src="image/neumann-architecture.png" alt="The von Neumann architecture">
+
+???
 
 ## Architecture
 
@@ -203,3 +225,5 @@ class: middle, center
 ---
 
 ## Family Tree
+
+[Family tree of programming languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
