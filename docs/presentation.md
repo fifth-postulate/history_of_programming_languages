@@ -192,35 +192,38 @@ class: middle, center
 
 ## Machine Instruction
 
+```
+01101000
+01101001
+00100000
+01101101
+01101111
+01101101
+00001101 
+00001010
+```
+
 ???
 
 * Directly ties into the design of the chip
+* Build a modern computer from first principles; from nand 2 tetris
+* Ben Eater
 
 ---
 
 ## Assembly
 
+```
+ADD.AB
+MOV.F
+JMP.B
+DAT.F
+```
+
 ???
 
 * An aid to write machine instructions
-
----
-
-## Compiled
-
-???
-
-* Higher level language
-* Translated to Machine Instructions
-
----
-
-## Interpreted
-
-???
-
-* Program is interpret
-* Then executed
+* Corewars: [https://www.corewar.io/](https://www.corewar.io/)
 
 ---
 
