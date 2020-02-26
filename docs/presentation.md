@@ -226,4 +226,4 @@ class: middle, center
 
 ## Family Tree
 
-[Family tree of programming languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+[Family tree of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
